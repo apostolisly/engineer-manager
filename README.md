@@ -1,4 +1,6 @@
 # Engineering Manager Resources 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fengineer-manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fengineer-manager?ref=badge_shield)
+
  A list of engineering manager resource links.
 
 ## Mentoring
@@ -121,3 +123,7 @@
 6. Commit your changes (`git commit -am "Add some feature"`)
 7. Push to the branch (`git push origin my-new-feature`)
 8. Create new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fengineer-manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fengineer-manager?ref=badge_large)
